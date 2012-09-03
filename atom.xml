@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[新加坡关爱会]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-09-03T12:05:05+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[新加坡关爱会]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[测试]]></title>
+    <link href="http://yoursite.com/blog/2012/09/03/test/"/>
+    <updated>2012-09-03T11:45:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/09/03/test</id>
+    <content type="html"><![CDATA[<p>中文测试</p>
+
+<h3>中文测试</h3>
+
+<p>能看到否</p>
+]]></content>
+  </entry>
+  
+</feed>
